@@ -1,6 +1,8 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-01c11585f9f46ecd93b38b1fb695aa9b.txt:18:text/plain:1
+t:assets.txt:assets-1ed36033831963a4323c778060f3c75d.txt:38:text/plain:1
 i:Java.png:Java-708cba104765aced1141e9629c8db469.png:26283:image/png:1
+b:test.frag:test-48a47529dab9b9d2806fbd69680dfe83.frag:624:application/unknown:1
+b:test.vert:test-cda03bbe3d977a202e93cd96a0a6ca1c.vert:268:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
