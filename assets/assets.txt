@@ -1,6 +1,7 @@
 d:assets:assets:0:application/unknown:1
-t:assets.txt:assets-1ed36033831963a4323c778060f3c75d.txt:38:text/plain:1
+t:assets.txt:assets-9bb07cf135c5acf87f2f01fa7cceaae5.txt:57:text/plain:1
 i:Java.png:Java-708cba104765aced1141e9629c8db469.png:26283:image/png:1
+b:KoskoBold-Bold.ttf:KoskoBold-Bold-8f71e7bd3f85586600942b24279fa55a.ttf:34028:application/unknown:1
 b:test.frag:test-48a47529dab9b9d2806fbd69680dfe83.frag:624:application/unknown:1
 b:test.vert:test-cda03bbe3d977a202e93cd96a0a6ca1c.vert:268:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
